@@ -1,13 +1,15 @@
 Week 11: Data Pipeline with Databricks
 
-
 Requirements
-Create a data pipeline using Databricks
+
+Create a data pipeline using Databricks.
 Include at least one data source and one data sink
 
 Deliverables
-Databricks notebook or script
-Document or video demonstrating the pipeline
+
+1. upload  LA Crime data to databrick.
+2.  use Databricks notebook or script to retrieve data
+3.  use notebook to explore and create data visualization
 
 ## References
 
