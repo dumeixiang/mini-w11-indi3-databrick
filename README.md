@@ -1,6 +1,6 @@
-Mini-w11-databrick and  Individual Project #3: Databricks ETL (Extract Transform Load) Pipeline
+## Mini-w11-databrick and  Individual Project #3: Databricks ETL (Extract Transform Load) Pipeline
 
-Requirements:
+## Requirements:
 
 Create a data pipeline using Databricks.
 Include at least one data source and one data sink.
@@ -11,7 +11,7 @@ Proper error handling and data validation.
 Visualization of the transformed data.
 An automated trigger to initiate the pipeline.
 
-Deliverables:
+## Deliverables:
 
 1. Upload  LA Crime data to databrick.
 2. Use Databricks notebook or script to retrieve data
@@ -27,12 +27,11 @@ Extract crime data using spark:
 
 Transform data in python enviroment using spark:
 
-![transform data]
+![transform data](https://github.com/dumeixiang/mini-w11-databrick/blob/main/Screen%20Shot%202023-11-15%20at%208.46.11%20PM.png)
 
 Insert data uisng delta table:
-
+![inser data](https://github.com/dumeixiang/mini-w11-databrick/blob/main/Screen%20Shot%202023-11-15%20at%208.46.35%20PM.png)
 Explore data by data visualization:
-
 ![data visualization](https://github.com/dumeixiang/mini-w11-databrick/blob/main/Screen%20Shot%202023-11-12%20at%209.09.14%20PM.png)
 
 
