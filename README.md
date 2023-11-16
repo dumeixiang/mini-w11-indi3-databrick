@@ -26,7 +26,6 @@ Extract crime data using spark:
 ![load data](https://github.com/dumeixiang/mini-w11-databrick/blob/main/Screen%20Shot%202023-11-12%20at%208.59.38%20PM.png)
 
 Transform data in python enviroment using spark:
-
 ![transform data](https://github.com/dumeixiang/mini-w11-databrick/blob/main/Screen%20Shot%202023-11-15%20at%208.46.11%20PM.png)
 
 Insert data uisng delta table:
